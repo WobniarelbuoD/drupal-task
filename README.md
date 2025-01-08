@@ -10,3 +10,5 @@ Aš naudojau XAMPP naujausią versiją kuri naudoja php 8.2.12 (dėlto teko naud
 7. SMTP Authentication Support naudoja mano nereikalinga testini el paštą.
 8. kai sukuriamas Task developer laukas susirenka visus userius kurie turi Superadmin role (hardcoded TaskForm.php)
 9. kurti užduotis gali visi prisijungę vartotojai.
+
+Sukurti naujai užduočiai reikia kad būtų bent 1 vadovas tai reiktu pridėti administratoriui Superadmin role arba sukurti nauja vartotoja ir jam pridėti ta role.
