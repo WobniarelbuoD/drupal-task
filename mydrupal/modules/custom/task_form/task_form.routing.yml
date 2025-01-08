@@ -1,0 +1,15 @@
+task_form.form:
+  path: '/task-form'
+  defaults:
+    _form: '\Drupal\task_form\Form\TaskForm'
+    _title: 'Task Form'
+  requirements:
+    _permission: 'access content'
+
+task_form.edit:
+  path: '/task-form/{node}'
+  defaults:
+    _form: '\Drupal\task_form\Form\TaskForm'
+    _title: 'Edit Task'
+  requirements:
+    _entity_access: 'node.edit'

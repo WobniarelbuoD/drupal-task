@@ -1,0 +1,9 @@
+task_graph:
+  version: 1.x
+  css:
+    theme:
+      css/task_graph.css: {}
+  js:
+    js/task_graph.js: {}
+  dependencies:
+    - core/jquery

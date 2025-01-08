@@ -1,0 +1,13 @@
+name: Tasks - Olivero
+type: module
+description: 'Formatting enhancements for using the Tasks module with the Olivero theme'
+core_version_requirement: ^9.5 || ^10 || ^11
+package: 'Configuration Kits'
+dependencies:
+  - tasks:tasks
+  - tasks:tasks_manage
+
+# Information added by Drupal.org packaging script on 2024-06-07
+version: '1.0.3'
+project: 'tasks'
+datestamp: 1717768108

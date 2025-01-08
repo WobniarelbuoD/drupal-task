@@ -1,0 +1,12 @@
+name: 'Display Link Plus'
+description: 'Provides a views header/footer link to another display in the same view'
+package: Views
+type: module
+core_version_requirement: ^8.8 || ^9 || ^10 || ^11
+dependencies:
+  - drupal:views
+
+# Information added by Drupal.org packaging script on 2024-04-14
+version: '1.1.1'
+project: 'display_link_plus'
+datestamp: 1713093171

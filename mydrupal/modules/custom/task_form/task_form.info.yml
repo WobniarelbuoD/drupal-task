@@ -1,0 +1,8 @@
+name: 'Task Form'
+type: module
+description: 'A custom form to submit task data.'
+core_version_requirement: ^10
+package: Custom
+dependencies:
+  - drupal:field
+  - drupal:block
