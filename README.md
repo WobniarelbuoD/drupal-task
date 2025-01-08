@@ -1,3 +1,4 @@
+windows defender skaito failą kaip virusa ji reiktu praleisti.`
 Kaip pasijungti projekta.
 Aš naudojau XAMPP naujausią versiją kuri naudoja php 8.2.12 (dėlto teko naudoti drupal 10 ne 11).
 1. Atsisiųsti ir įsirašyti XAMPP.
